@@ -1,0 +1,14 @@
+›{
+  "Time": "0001-01-01T00:00:00",
+  "Origin_Item": null,
+  "Compared_Item": null,
+  "Worker_Name": "phoung",
+  "Factory_Name": "VINA_2",
+  "Line_Num": 10,
+  "Result": false,
+  "Reason": null,
+  "Sample_1Box": 0,
+  "Sample_Tray": 0,
+  "TrayNumber": 0,
+  "TestCount": 0
+}
